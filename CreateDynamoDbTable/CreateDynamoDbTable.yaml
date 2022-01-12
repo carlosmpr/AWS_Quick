@@ -9,7 +9,7 @@ Resources:
           AttributeType: "S"
         - 
           AttributeName: "pet_id"
-          AttributeType: "S"
+          AttributeType: "N"
       KeySchema: 
         - 
           AttributeName: "pet_species"
