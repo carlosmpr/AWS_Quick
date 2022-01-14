@@ -1,0 +1,6 @@
+
+{
+    "REGION": "us-east-1",
+    "STAGE": "dev",
+    "S3_BUCKET": "buckettest123456789216547"
+  }
